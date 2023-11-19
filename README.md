@@ -35,6 +35,7 @@ La aplicación proporciona una interfaz intuitiva para crear y completar formula
 
 Esta aplicación fue desarrollada por CHI Technologies & Solutions.
 
+
 <div align="center">
   <p>© 2021 CHI Technologies & Solutions. Todos los derechos reservados.</p>
   <p>Contáctanos: contacto@chi.com.pa | patricia.hung@chi.com.pa</p>

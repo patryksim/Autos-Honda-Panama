@@ -1,4 +1,4 @@
-# Formularios de revisión para Autos Honda Panama
+# Formularios de revisión para Autos Honda Panamá
 
 Aplicación web, desarrollada con Laravel, tiene como objetivo facilitar el proceso de revisión anual de autos en Honda Motors. Proporciona herramientas para llenar formularios de revisión, e incluye un módulo de gestión de usuarios.
 
